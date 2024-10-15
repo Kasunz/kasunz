@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kasun Madusanka Bandara</h1>
 
 <p align="center">
-  I'm currently learning software development and exploring various technologies. <br> <br> 
+  I am currently learning software development, exploring various programming languages, and learning version control with Git.. <br> <br> 
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 </p>
 
