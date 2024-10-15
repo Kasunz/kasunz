@@ -9,12 +9,30 @@
 
 ## 💻 Tech Stack:
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+
 </p>
+
+---
+
+## 📊 GitHub Stats:
+
+<table align="center">
+  <tr>
+    <td style="padding-right: 20px;">
+      <!-- GitHub Streak Stats (Left Aligned) -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasunz&theme=transparent&hide_border=true" style="height: 195px;"/>
+    </td>
+    <td style="padding-left: 20px;">
+      <!-- Top Languages Stats (Right Aligned) -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasunz&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="height: 195px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
